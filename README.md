@@ -1,19 +1,21 @@
 # Hi there 👋
 ## Specifications
 ### Desktop PC
-CPU: AMD A10-6700 APU with AMD Radeon Graphics (~3.7 GHz)
+The main desktop PC I use is an early 2009 Mac Pro 4,1 which has been flashed to the 5,1 firmware. It may be old, but it works perfectly.
 
-GPU (part of the APU chipset): AMD Radeon HD 8670D
+CPU: Intel Xeon X5680 @ 3.33 GHz
 
-RAM: 6 GB DDR3
+GPU: ATI Radeon HD 4870 512 MB (looking to upgrade to the RX580 8 GB)
 
-Monitor: ASUS VE228
+RAM: 24 GB DDR3
 
-Operating System: Windows 10 Home 64-bit build 1903
+Monitor: DELL S2817Q
 
-Storage: 1TB HDD (primary), 320 GB HDD (secondary)
+Operating Systems: macOS 12.6 Monterey, Windows 10 Pro 20H2
 
-The motherboard that my PC originally came with is an MSI MS-7778. The PC was released on 3rd November 2013, and originally shipped with Windows 8 installed.
+Storage: 256 GB NVMe SSD, 1 TB Pioneer SSD (bay 1), TOSHIBA 500 GB HDD (bay 2)
+
+The motherboard is Apple proprietary.
 
 ### Laptop PC
 The laptop I use is a Lenovo V155 15api. Here are the specs:
@@ -35,4 +37,4 @@ OS: Windows 10 Home
 - 🔭 I’m currently working on *Half-Life: Zombies Ate My Neighbours* and its soundtrack
 - 🌱 I’m currently learning C++
 - 💬 Ask me about GoldSource Development
-- 📫 How to reach me: sabian@phoenixproject.ml
+- 📫 How to reach me: sabian@phoenixproject.cc
