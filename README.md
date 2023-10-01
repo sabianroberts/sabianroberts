@@ -9,15 +9,15 @@ GPU: AMD Sapphire Nitro Radeon RX 580 8 GB
 
 RAM: 24 GB DDR3 triple-channel
 
-Monitor: DELL S2817Q
+Monitors: DELL S2817Q 28" 4K & Apple Cinema Display 20" (2004)
 
 Operating Systems: macOS 12.6 Monterey, Windows 10 Pro 20H2
 
-Storage: 256 GB NVMe SSD, 1 TB Pioneer SSD (bay 1), TOSHIBA 500 GB HDD (bay 2)
+Storage: 256 GB NVMe SSD, 1 TB Pioneer SSD (bay 1), TOSHIBA 500 GB HDD (bay 2), Seagate ST33000650NS 3000.5 GB (bay 3)
 
 The motherboard is Apple proprietary.
 
 - 🔭 I’m currently working on *Half-Life: Zombies Ate My Neighbours* and its soundtrack
 - 🌱 I’m currently learning C++
-- 💬 Ask me about GoldSource Development
+- 💬 Ask me about GoldSource Development, game design, non-diegetic music, filmmaking
 - 📫 How to reach me: sabian@phoenixproject.cc / sabian@sabianroberts.com
